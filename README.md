@@ -1,4 +1,4 @@
-##University of Toronto Python Exercises##
+# University of Toronto Python Exercises
 
 This is where I will be uploading any Python3 exercises during my time at U of T, where I am currently sitting in on CS108 as well as taking the online Coursera course in order to take part in online exercises.
 
