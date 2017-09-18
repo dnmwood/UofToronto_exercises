@@ -52,17 +52,19 @@ The importance of code hierarchy in order to allow every possible input between 
 
 ```html
 
-  4.6 Write a program to prompt the user for hours and rate per hour using input
+  Write a program to prompt the user for hours and rate per hour using input
   to compute gross pay. Award time-and-a-half for the hourly rate for all hours
   worked above 40 hours. Put the logic to do the computation of time-and-a-half
   in a function called computepay() and use the function to do the computation.
 
-  The function should return a value. Use 45 hours and a rate of 10.50 per hour
-  to test the program (the pay should be 498.75). You should use input to read a
-  string and float() to convert the string to a number. Do not worry about error
-  checking the user input unless you want to - you can assume the user types numbers
-  properly. Do not name your variable sum or use the sum() function.
-
 ```
 
-  
+A continuation of exercise 3.1 that calls a function to eliminate repetitive code, using the _return_ statement to store a value.
+
+**What I Learned:**
+
+Return statements seem to be the beginning of a more complex programming, where the user is given back a value that can be used later. Rather than simply doing something like _print()_ and moving on, we're now working with functions that can make a returned value more valuable.
+
+I'm also finding it harder to code on Sundays when the Broncos are __this__ good at football.
+
+(_Go Broncos..._)
