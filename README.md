@@ -80,3 +80,19 @@ with a try/except and put out an appropriate message and ignore the number.
 Enter 7, 2, bob, 10, and 4 and match the output below.
 
 ```
+
+The first exercise to use an indefinite loop until the user breaks the code by typing "done", as well as the first exercise using the Boolean data type.
+
+**What I Learned:**
+
+Today I learned that there are different types of flags for different types of input! Depending on the type of data that you are expecting.
+
+Also, even though the course has yet to cover _and_ statements, I knew in my heartiest of hearts that it would be the most efficient way of writing lines 14-16:
+
+```Python3
+elif largest is None and smallest is None:
+      largest = num
+      smallest = num
+```
+
+Rather than writing out separate lines of code to check both "largest" and "smallest" for a value, the 14th line of code will only run once - as it's given the first value inputted - assigning the first integer given to both "largest" and "smallest" all in one go. Neato.
