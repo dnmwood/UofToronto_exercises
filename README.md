@@ -96,3 +96,21 @@ elif largest is None and smallest is None:
 ```
 
 Rather than writing out separate lines of code to check both "largest" and "smallest" for a value, the 14th line of code will only run once - as it's given the first value inputted - assigning the first integer given to both "largest" and "smallest" all in one go. Neato.
+
+### Exercise 6.5
+
+```html
+
+Write code using find() and string slicing (see section 6.10) to extract
+the number at the end of the line below. Convert the extracted value to a
+floating point number and print it out.
+
+```
+
+Our first exercise using string slicing to capture a small portion of a long string, and converting that data. A very simple exercise, I'm looking forward to learning more intelligent ways of slicing using conditional statements.
+
+**What I Learned:**
+
+As someone with a huge interest in communication technology, being able to slice a string and collect useful segments of information within a piece of data is a very exciting first step.
+
+Large streaming applications - Twitch and more recently YouTube Gaming for example - have always fascinated me with complex live-chat, and appear to use a lot of the same functions covered in chapter six. Very excited to dive into this week's material.
