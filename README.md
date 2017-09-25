@@ -122,3 +122,9 @@ Large streaming applications - Twitch and more recently YouTube Gaming for examp
 Write a program that prompts for a file name, then opens that file and reads through the file, and print the contents of the file in upper case. Use the file words.txt to produce the output below.
 
 ```
+
+Our first exercise for opening & reading .txt files, in order to run a couple functions that do something simple with the data.
+
+**What I Learned:**
+
+Today I learned how to read() a file, turning all of the data into one continuous string that can then be passed through a block of code. I've also learned quite a bit today about the semantics of opening .txt files and how to search using a for loop.
