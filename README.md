@@ -119,7 +119,9 @@ Large streaming applications - Twitch and more recently YouTube Gaming for examp
 
 ```html
 
-Write a program that prompts for a file name, then opens that file and reads through the file, and print the contents of the file in upper case. Use the file words.txt to produce the output below.
+Write a program that prompts for a file name, then opens that file and reads
+through the file, and print the contents of the file in upper case. Use the
+file words.txt to produce the output below.
 
 ```
 
@@ -128,3 +130,20 @@ Our first exercise for opening & reading .txt files, in order to run a couple fu
 **What I Learned:**
 
 Today I learned how to read() a file, turning all of the data into one continuous string that can then be passed through a block of code. I've also learned quite a bit today about the semantics of opening .txt files and how to search using a for loop.
+
+### Exercise 7.2
+
+```html
+
+Write a program that prompts for a file name, then opens that file and reads
+through the file, looking for lines of the form:
+
+X-DSPAM-Confidence:    0.8475
+
+Count these lines and extract the floating point values from each of the lines
+and compute the average of those values and produce an output as shown below.
+Do not use the sum() function or a variable named sum in your solution.
+You can download the sample data at http://www.py4e.com/code3/mbox-short.txt
+when you are testing below enter mbox-short.txt as the file name.
+
+```
