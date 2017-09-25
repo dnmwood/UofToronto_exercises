@@ -114,3 +114,11 @@ Our first exercise using string slicing to capture a small portion of a long str
 As someone with a huge interest in communication technology, being able to slice a string and collect useful segments of information within a piece of data is a very exciting first step.
 
 Large streaming applications - Twitch and more recently YouTube Gaming for example - have always fascinated me with complex live-chat, and appear to use a lot of the same functions covered in chapter six. Very excited to dive into this week's material.
+
+### Exercise 7.1
+
+```html
+
+Write a program that prompts for a file name, then opens that file and reads through the file, and print the contents of the file in upper case. Use the file words.txt to produce the output below.
+
+```
