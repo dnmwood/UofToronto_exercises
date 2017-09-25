@@ -147,3 +147,9 @@ You can download the sample data at http://www.py4e.com/code3/mbox-short.txt
 when you are testing below enter mbox-short.txt as the file name.
 
 ```
+
+A more complex continuation of opening & reading files, this time finding the 'average spam confidence' within the .txt file.
+
+**What I Learned:**
+
+As this exercise grew more complicated with more variables, I started to notice the importance of having efficient variable names - as the lines of code become more and more complex with new values.
