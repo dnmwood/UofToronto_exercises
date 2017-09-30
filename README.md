@@ -153,3 +153,15 @@ A more complex continuation of opening & reading files, this time finding the 'a
 **What I Learned:**
 
 As this exercise grew more complicated with more variables, I started to notice the importance of having efficient variable names - as the lines of code become more and more complex with new values.
+
+### Exercise 8.4
+
+```html
+
+Open the file romeo.txt and read it line by line. For each line, split the line
+into a list of words using the split() method. The program should build a list
+of words. For each word on each line check to see if the word is already in the
+list and if not append it to the list. When the program completes, sort and
+print the resulting words in alphabetical order.
+
+```
