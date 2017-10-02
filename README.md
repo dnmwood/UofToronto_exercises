@@ -166,12 +166,18 @@ print the resulting words in alphabetical order.
 
 ```
 
+An exercise that uses the split() method to separate words into a list.
+
+**What I Learned:**
+
+This was the first exercise where I realized that the built-in python exercise browser and terminal were not perfectly matched, and that even Coursera can encounter some bugs along the way.
+
 ### Exercise 8.5
 
 ```html
 
 Open the file mbox-short.txt and read it line by line. When you find a line that
- starts with 'From ' like the following line:
+starts with 'From ' like the following line:
 
 From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
 
@@ -181,3 +187,9 @@ out a count at the end. Hint: make sure not to include the lines that start
 with 'From:'.
 
 ```
+
+A fun exercise in parsing through a massive mbox file to create a list of email addresses.
+
+**What I Learned:**
+
+It's good to go back and look over some of the code that you've already written! Exercise 7.2 made this task very easy to get through. Also, this Toronto heatwave has forced me out of my boiling hot house and spending most of my time coding at a nearby cafe. I think I'll look back fondly on it -  even if it's got me wearing shorts in October. Thanks, Heatwave! 🔥🌤🔥
