@@ -193,3 +193,17 @@ A fun exercise in parsing through a massive mbox file to create a list of email 
 **What I Learned:**
 
 It's good to go back and look over some of the code that you've already written! Exercise 7.2 made this task very easy to get through. Also, this Toronto heatwave has forced me out of my boiling hot house and spending most of my time coding at a nearby cafe. I think I'll look back fondly on it -  even if it's got me wearing shorts in October. Thanks, Heatwave! 🔥🌤🔥
+
+### Exercise 9.4
+
+```html
+
+Write a program to read through the mbox-short.txt and figure out who has the
+sent the greatest number of mail messages. The program looks for 'From ' lines
+and takes the second word of those lines as the person who sent the mail. The
+program creates a Python dictionary that maps the sender's mail address to a
+count of the number of times they appear in the file. After the dictionary is
+produced, the program reads through the dictionary using a maximum loop to find
+the most prolific committer.
+
+```
