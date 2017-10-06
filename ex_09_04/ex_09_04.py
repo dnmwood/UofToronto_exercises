@@ -1,8 +1,8 @@
 emails = dict()
-most_emails = 0
+most_emails = -1
 
 name = input("Enter file: ")
-if len(name) < 1 : name = "mbox-short.txt"
+if len(name) < 1 : name = "mbox.txt"
 handle = open(name)
 
 for line in handle:
