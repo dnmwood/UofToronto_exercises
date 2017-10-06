@@ -207,3 +207,19 @@ A surprisingly difficult exercise for me, creating a word-dictionary and using a
 **What I Learned:**
 
 Semantics! This was the first exercise for me that didn't really have an "aha!" moment, it was mostly trying different lines of code and going through the chapter over again to figure out what I was doing incorrectly. I'm going to have to read over this chapter a couple times until I can look at every single line of code from this section and understand right away what it is I'm looking at. The letters just started blending together for me on this one.
+
+### Exercise 10.2
+
+```html
+
+Write a program to read through the mbox-short.txt and figure out the
+distribution by hour of the day for each of the messages. You can pull the hour
+out from the 'From ' line by finding the time and then splitting the string a
+second time using a colon.
+
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+
+Once you have accumulated the counts for each hour, print out the counts, sorted
+by hour as shown below.
+
+```
